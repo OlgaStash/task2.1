@@ -9,3 +9,9 @@
 1. Высокая скорость поиска
 3. Низкая цена
 4. Подборка таргетных ответов
+```css
+.selector {
+  font-family: "Awesome", Arial, sans-serif;
+  color: red;
+}
+```
